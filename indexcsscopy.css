@@ -1,0 +1,100 @@
+#img
+    {
+      width: 400px;
+      height: 340px;
+      background-image: url('business.jpg');
+      background-size: cover;
+      margin-left: auto;
+    margin-right: 2%;
+    }
+     li
+    {
+      display: inline-block;
+    }
+    #cpy
+    {
+      animation:animate 5s linear infinite;
+    }
+    @keyframes animate 
+    {
+      0%{transform: translateX(-600px);}
+      100%{transform: translateX(600px);}
+    }
+    #hdr:hover
+    {
+      text-decoration: underline;
+      text-shadow: 2px 2px 3px black;
+    }
+    #c1:hover
+    {
+      box-shadow: 2px 2px 3px black;
+    }
+      #c2:hover
+    {
+      box-shadow: 2px 2px 3px black;
+    }
+      #c3:hover
+    {
+      box-shadow: 2px 2px 3px black;
+    }
+    #a1:hover
+    {
+      border: 1px solid blue;
+      border-radius: 20px;
+      background-color: cyan;
+      padding-bottom: 5px;
+    }
+        #a2:hover
+    {
+      border: 1px solid blue;
+      border-radius: 20px;
+      background-color: cyan;
+      padding-bottom: 5px;
+    }
+        #a3:hover
+    {
+      border: 1px solid blue;
+      border-radius: 20px;
+      background-color: cyan;
+      padding-bottom: 5px;
+    }
+    #s1:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+      #s2:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+      #s3:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+      #s4:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+      #s5:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+      #s6:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+      #s7:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+      #s8:hover
+    {
+        box-shadow: 2px 2px 3px black;
+    }
+    #so:hover
+    {
+      text-decoration: underline;
+   }
+   #ct:hover
+   {
+    text-decoration: underline;
+   }
